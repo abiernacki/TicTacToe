@@ -1,0 +1,86 @@
+
+
+body {
+        background-image: url(../images/minionki2.png);
+        /* background-size: contain; */
+}
+
+#main {
+
+        width: 400px; 
+        height: 450px; 
+        border: none;
+        margin-left: 700px;
+
+
+}
+
+input {
+
+        width: 133px; 
+        height: 150px;
+        float: left;
+        font-family: arial;
+        font-size: 50px;
+        border: 10px solid darkblue;
+        background: transparent;
+        outline: none;
+        color: black;
+        
+        
+}
+
+#reset {
+
+        width: 200px;
+        height: 200px;
+        margin-left: 800px;
+        margin-top: 20px;
+        border-radius: 50%;
+        font-family: inherit;
+        background-color: yellow;
+        color: darkblue;
+}
+
+#przycisk1 {
+
+        border-left: none;
+        border-top: none;
+}
+
+#przycisk2 {
+
+        border-top: none;
+}
+
+#przycisk3 {
+
+        border-right: none;
+        border-top: none;
+}
+
+#przycisk4 {
+
+        border-left: none;
+}
+#przycisk6 {
+
+        border-right: none;
+}
+
+#przycisk7 {
+
+        border-left: none;
+        border-bottom: none;
+}
+
+#przycisk8 {
+
+        border-bottom: none;
+}
+
+#przycisk9 {
+
+        border-right: none;
+        border-bottom: none;
+}
